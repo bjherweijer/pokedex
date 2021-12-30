@@ -9,7 +9,7 @@ Features the following:
 - SSR
 - Tailwind
 
-The YouTube-channel of James Q Quick. The Video: [ Crash Course - SSR, API Routes, Stores, Tailwind CSS, and More!] (https://www.youtube.com/watch?v=UU7MgYIbtAk)
+The YouTube-channel of James Q Quick. The Video: [Crash Course - SSR, API Routes, Stores, Tailwind CSS, and More!](https://www.youtube.com/watch?v=UU7MgYIbtAk)
 
 # create-svelte
 
