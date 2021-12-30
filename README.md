@@ -1,3 +1,16 @@
+# This is a project learning Svelte
+
+It uses SvelteKit & the open PokeAPI.
+Features the following:
+
+- SvelteKit
+- API calls
+- API routes
+- SSR
+- Tailwind
+
+The YouTube-channel of James Q Quick. The Video: [ Crash Course - SSR, API Routes, Stores, Tailwind CSS, and More!] (https://www.youtube.com/watch?v=UU7MgYIbtAk)
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
